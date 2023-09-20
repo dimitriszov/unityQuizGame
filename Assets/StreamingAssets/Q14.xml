@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Στην ιεραρχική προσέγγιση του προγραμματισμού, ποιος είναι ο πρωταρχικός σκοπός της διάσπασης ενός πολύπλοκου προβλήματος σε μικρότερα υποπροβλήματα;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Να κάνει το πρόγραμμα να εκτελείται ταχύτερα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Να κάνει το πρόγραμμα ευκολότερο στην κατανόηση και τη διαχείριση</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Να μειωθεί ο αριθμός των χρησιμοποιούμενων γλωσσών προγραμματισμού</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Να αυξηθεί η πολυπλοκότητα της συνολικής λύσης</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποια είναι μια συνάρτηση ή μέθοδος στον προγραμματισμό που χρησιμοποιείται συχνά στην ιεραρχική προσέγγιση;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Για την αποθήκευση δεδομένων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Για την εμφάνιση διεπαφών χρήστη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Επαναχρησιμοποίηση κώδικα για μια συγκεκριμένη εργασία</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Τη διαχείριση της κατανομής μνήμης</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποια έννοια του προγραμματισμού επιτρέπει σε μια συνάρτηση να καλεί τον εαυτό της μέσα στον δικό της κώδικα, που χρησιμοποιείται συχνά σε αναδρομικούς αλγορίθμους;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Κληρονομικότητα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Πολυμορφισμός</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Ενθυλάκωση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Αναδρομή</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η τεχνική της ιεραρχικής σχεδίασης είναι γνωστή και ως τεχνική «από κάτω προς τα πάνω.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποια από τα ακόλουθα είναι η κύρια διαφορά μεταξύ διερμηνέων και μεταγλωττιστών;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Οι διερμηνείς παράγουν κώδικα μηχανής, ενώ οι μεταγλωττιστές εκτελούν απευθείας τον κώδικα.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Οι μεταγλωττιστές μεταφράζουν τον κώδικα γραμμή προς γραμμή, ενώ οι διερμηνείς μεταφράζουν ολόκληρο τον κώδικα ταυτόχρονα.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Οι διερμηνείς είναι ταχύτεροι από άποψη ταχύτητας εκτέλεσης από τους μεταγλωττιστές.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Οι μεταγλωττιστές χρησιμοποιούνται μόνο για γλώσσες υψηλού επιπέδου, ενώ οι διερμηνείς για γλώσσες χαμηλού επιπέδου.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο είναι το κύριο πλεονέκτημα της χρήσης ενός μεταγλωττιστή έναντι ενός διερμηνέα;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Ταχύτερη εκτέλεση του κώδικα</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Ευκολότερη αποσφαλμάτωση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Μικρότερο μέγεθος εκτελέσιμου αρχείου</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Ανεξαρτησία από την πλατφόρμα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο είναι το κύριο πλεονέκτημα της χρήσης ενός μεταγλωττιστή έναντι ενός διερμηνέα;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Οι διερμηνείς παράγουν κώδικα μηχανής, ενώ οι μεταγλωττιστές εκτελούν απευθείας τον κώδικα.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Οι μεταγλωττιστές μεταφράζουν τον κώδικα γραμμή προς γραμμή, ενώ οι διερμηνείς μεταφράζουν ολόκληρο τον κώδικα ταυτόχρονα.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Οι διερμηνείς είναι ταχύτεροι από άποψη ταχύτητας εκτέλεσης από τους μεταγλωττιστές.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Οι μεταγλωττιστές χρησιμοποιούνται μόνο για γλώσσες υψηλού επιπέδου, ενώ οι διερμηνείς για γλώσσες χαμηλού επιπέδου.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ο διερμηνέας μεταφράζει ολόκληρο το πρόγραμμα σε κώδικα μηχανής πριν από την εκτέλεσή του.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι μεταγλωττιστές και οι διερμηνείς εξυπηρετούν τον ίδιο σκοπό στον προγραμματισμό και μπορείτε να τους εναλλάσσετε χωρίς καμία επίπτωση στη συμπεριφορά του κώδικα.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι διερμηνείς εκτελούν τον κώδικα γραμμή προς γραμμή, γεγονός που μπορεί να τους κάνει πιο αργούς από τους μεταγλωττιστές όσον αφορά την ταχύτητα εκτέλεσης.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

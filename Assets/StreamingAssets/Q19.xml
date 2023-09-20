@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Η λογική πράξη και μεταξύ 2 προτάσεων είναι αληθής όταν:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) οποιαδήποτε από τις δύο προτάσεις είναι αληθής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) η πρώτη πρόταση είναι αληθής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) η δεύτερη πρόταση είναι αληθής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) και οι δύο προτάσεις είναι αληθείς</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η λογική πράξη ή μεταξύ 2 προτάσεων είναι αληθής όταν:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) οποιαδήποτε από τις δύο προτάσεις είναι αληθής </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) η πρώτη πρόταση είναι ψευδής. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) η δεύτερη πρόταση είναι ψευδής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) και οι δύο προτάσεις είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η λογική πράξη ή μεταξύ 2 προτάσεων είναι ψευδής όταν:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) η πρώτη πρόταση είναι ψευδής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) και οι δύο προτάσεις είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) η δεύτερη πρόταση είναι ψευδής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) και οι δύο προτάσεις είναι ψευδής.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η λογική πράξη και μεταξύ 2 προτάσεων είναι ψευδής όταν:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) και οι δύο προτάσεις είναι αληθείς.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) οποιαδήποτε από τις δύο προτάσεις είναι ψευδής.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) η δεύτερη πρόταση είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) η πρώτη πρόταση είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η λογική πράξη και μεταξύ 2 προτάσεων είναι ψευδής όταν:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) και οι δύο προτάσεις είναι αληθείς.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) οποιαδήποτε από τις δύο προτάσεις είναι ψευδής.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) η δεύτερη πρόταση είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) η πρώτη πρόταση είναι αληθής.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ο λογικός τελεστής ΟΧΙ έχει μεγαλύτερη προτεραιότητα από το λογικό τε- λεστή ΚΑΙ.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η λογική πρόταση ‘Α’&gt;’Δ’ είναι ψευδής.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο είναι το αποτέλεσμα της έκφρασης 10 &gt; 5;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) αληθής</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ψευδής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) 10</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) 5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιος τελεστής ελέγχει αν δύο τιμές δεν είναι ίσες, ανεξάρτητα από τους τύπους δεδομένων τους.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ==</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) !=</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) =</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) &lt;&gt;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιος τελεστής σύγκρισης χρησιμοποιείται για να ελέγξετε αν μια τιμή είναι μεγαλύτερη ή ίση από μια άλλη;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) &gt;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) &gt;=</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) &lt;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) &lt;=</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

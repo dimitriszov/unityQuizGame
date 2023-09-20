@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Για ποιο σκοπό έχει σχεδιαστεί η γλώσσα μηχανής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Ανθρώπινη αναγνωσιμότητα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Αποτελεσματική εκτέλεση από την ΚΜΕ του υπολογιστή</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Φορητότητα μεταξύ διαφορετικών αρχιτεκτονικών υπολογιστών</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Προγραμματισμός υψηλού επιπέδου</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο από τα παρακάτω ΔΕΝ αποτελεί κατηγορία της γλώσσας μηχανής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Γλώσσα συναρμολόγησης</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Γλώσσα υψηλού επιπέδου</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Δυαδικός κώδικας μηχανής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Μνημονικός κώδικας μηχανής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιος τύπος γλώσσας μηχανής είναι ειδικός για μια συγκεκριμένη αρχιτεκτονική υπολογιστή και δεν μπορεί εύκολα να μεταφερθεί σε άλλη;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Γλώσσα υψηλού επιπέδου</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Γλώσσα Assembly</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Γλώσσα χαμηλού επιπέδου</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Φορητός κώδικας</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ο δυαδικός κώδικας μηχανής αποτελείται από εντολές που αναπαρίστανται σε δυαδική μορφή, οι οποίες εκτελούνται άμεσα από την ΚΜΕ ενός υπολογιστή.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η γλώσσα Assembly είναι μια γλώσσα προγραμματισμού χαμηλού επιπέδου που χρησιμοποιεί συμβολικά ονόματα και μνημονικά για την αναπαράσταση των εντολών του κώδικα μηχανής.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι γλώσσες υψηλού επιπέδου θεωρούνται γλώσσες μηχανής επειδή μπορούν να εκτελεστούν απευθείας από την ΚΜΕ ενός υπολογιστή χωρίς καμία μετάφραση.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι γλώσσες μηχανής είναι ανεξάρτητες από πλατφόρμες και μπορούν να εκτελούνται σε οποιαδήποτε αρχιτεκτονική υπολογιστή χωρίς τροποποίηση.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι γλώσσες μηχανής θεωρούνται το υψηλότερο επίπεδο γλωσσών προγραμματισμού.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποια από τις παρακάτω δεν αποτελεί κατηγορία γλώσσας υψηλού επιπέδου;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Αντικειμενοστρεφείς</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Φυσικές</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Συναρτησιακές</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Μη διαδικασιακές</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Πως ονομαζόταν ο πρώτος υπολογιστής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) FIRST</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ATLAS</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) JARVIS</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) ENIAC</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

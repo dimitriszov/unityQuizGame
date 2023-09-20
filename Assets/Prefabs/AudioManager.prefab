@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1562143493297283288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1562143493297283290}
+  - component: {fileID: 1562143493297283289}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1562143493297283290
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562143493297283288}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1562143493297283289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562143493297283288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fff869d56ff7c34a818a43b0ed0b504, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: CountdownSFX
+    clip: {fileID: 8300000, guid: 475707493f1edcc4d95b36c67977601c, type: 3}
+    mixer: {fileID: 4079361192003841152, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: correct
+    clip: {fileID: 8300000, guid: 4b288be0725c5c5449ed572a307d5693, type: 3}
+    mixer: {fileID: 4079361192003841152, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: wrong
+    clip: {fileID: 8300000, guid: d5faf730d6599ce4c812795782b5d82c, type: 3}
+    mixer: {fileID: 4079361192003841152, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MainTheme
+    clip: {fileID: 8300000, guid: 2cebe5ef59f447d4d803665e3ecf1a2f, type: 3}
+    mixer: {fileID: -6204641696529338915, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: LevelTheme
+    clip: {fileID: 8300000, guid: ce2bdc71de8221046b5109f02c551f46, type: 3}
+    mixer: {fileID: -6204641696529338915, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Win
+    clip: {fileID: 8300000, guid: 2acb75d7981b62840bb3b6449fed5623, type: 3}
+    mixer: {fileID: -6204641696529338915, guid: d7805fc175737104fa3b07894643e721, type: 2}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  mixer: {fileID: 24100000, guid: d7805fc175737104fa3b07894643e721, type: 2}

@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Η λογική των επαναληπτικών διαδικασιών εφαρμόζεται στις περιπτώσεις όπου:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) μία ακολουθία εντολών πρέπει να εφαρμοσθεί σε δύο περιπτώσεις</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) μία ακολουθία εντολών πρέπει να εφαρμοσθεί σε ένα σύνολο περιπτώσεων</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) υπάρχει απαίτηση να ληφθεί μία απόφαση με βάση κάποια συνθήκη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) υπάρχουν δύο συνθήκες που πρέπει να ισχύουν η μία μετά την άλλη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η εκτέλεση του κάτωθι τμήματος αλγορίθμου: s ← 0 p ← 0 διάβασε a Όσο (a&gt;0) επανάλαβε    Αν(a mod 2=1) τότε       s ← s + a    αλλιώς       p ← p * a    Τέλοςαν    Διάβασε a Τέλοςεπανάληψης  όπου a ακέραιος, μας δίνει</Info>
+      <Answers>
+        <Answer>
+          <Info>α) το γινόμενο των περιττών και 0 για τους αρτίους</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) το άθροισμα των περιττών και το γινόμενο των άρτιων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) το άθροισμα των περιττών και 0 για τους άρτιους</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) το άθροισμα των αρτίων και 0 για τους περιττούς</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Δίνεται το παρακάτω τμήμα αλγορίθμου da ← 0 dp ← 0 Για i από a μέχρι 4 μεβήμα  –2    Αν (i mod 2=0) τότε       da ← da + 1    αλλιώς       dp ← dp + 1    Τέλοςαν Τέλοςεπανάληψης αν το αποτέλεσμα είναι da=0 και dp=3, τότε ποια τιμή θα μπορούσε να έχει το a;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) a=11 </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) a=9</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) a=8</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) a=2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τι θα εκτυπωθεί, μετά την εκτέλεση του παρακάτω αλγορίθμου: α ← 2 β ← -3 Όσο β &lt;= 0 επανάλαβε     β ← β + 1     α ← α + β - 1 Τέλοςεπανάληψης Εκτύπωσε α</Info>
+      <Answers>
+        <Answer>
+          <Info>α) 2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) -4</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) -1</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) 4</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι εντολές μεταξύ του "ΑρχήΕπανάληψης...Μέχριςότου" ...</Info>
+      <Answers>
+        <Answer>
+          <Info>α. εκτελούνται μέχρι η συνθήκη να γίνει αληθής</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β. εκτελούνται μέχρι η συνθήκη να γίνει ψευδής</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ. μπορεί να μην εκτελεστούν καμία επανάληψη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ. θα εκτελεστούν οπωσδήποτε μια φορά</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Multi</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Το παρακάτω τμήμα αλγορίθμου Σ ← 0 Για i από 100 μέχρι 999 μεβήμα 2     Σ ← Σ + i Τέλοςεπανάληψης</Info>
+      <Answers>
+        <Answer>
+          <Info>α. Υπολογίζει το άθροισμα των τριψήφιων αριθμών</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β. Υπολογίζει το άθροισμα των τριψήφιων άρτιων αριθμών</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ. Υπολογίζει το άθροισμα των τριψήφιων περιττών</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ. Δεν εκτελείται ποτέ.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Με την εντολή "Αρχήεπανάληψης…Μέχριςότου…" υπάρχει ένας βρόχος που εκτελείται τουλάχιστον μία φορά</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Στην δομή «Όσο», η ομάδα εντολών εκτελείται μέχρι η συνθήκη να γίνει ψευδής</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Στη δομή επανάληψης Για το βήμα δεν μπορεί να είναι μηδέν</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Στη δομή επανάληψης Για αν η τιμή του βήματος είναι 1, τότε μπορεί να παραληφθεί.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Ποιος από τους ακόλουθους είναι ο πρωταρχικός σκοπός της χρήσης διαγραμμάτων ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Για τη δημιουργία καλλιτεχνικών σχεδίων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Για την αναπαράσταση πολύπλοκων δομών δεδομένων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Για την οπτικοποίηση της ακολουθίας βημάτων ή διαδικασιών</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Για την κρυπτογράφηση ευαίσθητων πληροφοριών</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τι αντιπροσωπεύουν συνήθως τα βέλη σε ένα διάγραμμα ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Αποθήκευση δεδομένων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Σημεία λήψης αποφάσεων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Κατεύθυνση της ροής δεδομένων ή ελέγχου</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Τέλος του διαγράμματος</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο σύμβολο χρησιμοποιείται συνήθως για την αναπαράσταση μιας απόφασης ή μιας δήλωσης υπό όρους σε ένα διάγραμμα ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Ορθογώνιο με στρογγυλεμένες γωνίες</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Οβάλ σχήμα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Σχήμα ρόμβου</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Εξάγωνο σχήμα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Σε ένα διάγραμμα ροής, τι αναπαριστά συνήθως ένα σύμβολο ορθογωνίου;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Σημείο έναρξης ή τέλους</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Σημείο απόφασης</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Διαδικασία ή πράξη</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Εισαγωγή δεδομένων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τα διαγράμματα ροής χρησιμοποιούνται ευρέως σε ποιον τομέα για την οπτικοποίηση αλγορίθμων και λογικής προγραμμάτων;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Ιατρική</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Αρχιτεκτονική</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Πληροφορική</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Γεωργία</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τι υποδηλώνουν οι καμπύλες γραμμές σύνδεσης σε ένα διάγραμμα ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Ροή δεδομένων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Διαδοχικές διαδικασίες</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Λάθη στο διάγραμμα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Βρόχους ή επαναλήψεις</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τα διαγράμματα ροής είναι πολύτιμα εργαλεία για την τεκμηρίωση και την επικοινωνία ποιου από τα ακόλουθα;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Προσωπικά ανέκδοτα</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Ποίηση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Πολύπλοκες ροές εργασίας και επιχειρηματικές διαδικασίες</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Επιστημονικές θεωρίες</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τα διαγράμματα ροής είναι γνωστά για την ευελιξία και την προσαρμοστικότητά τους σε διάφορες βιομηχανίες και εφαρμογές. Τι σημαίνει αυτό;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Τα διαγράμματα ροής είναι μια τυποποιημένη μορφή.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Τα διαγράμματα ροής χρησιμοποιούνται σπάνια στην πράξη.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Τα διαγράμματα ροής δεν μπορούν να χειριστούν πολύπλοκες διαδικασίες.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Τα διαγράμματα ροής έχουν περιορισμένη χρηστικότητα.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Τι είδους διεργασίες μπορούν να αναπαραστήσουν τα διαγράμματα ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Μόνο γραμμικές και διαδοχικές διαδικασίες</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Μόνο διακλαδισμένες διαδικασίες</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Μόνο διεργασίες που βασίζονται σε βρόχους</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Γραμμικές, διακλαδιζόμενες και βρόγχες διεργασίες</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Ποιο από τα παρακάτω ΔΕΝ αποτελεί χαρακτηριστικό των διαγραμμάτων ροής;</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Οπτική αναπαράσταση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Διαδοχική διάταξη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Κειμενικές περιγραφές</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Σύμβολα και σύνδεσμοι για την αναπαράσταση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

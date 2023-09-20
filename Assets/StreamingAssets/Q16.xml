@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Το σύμβολο &gt;= είναι λογικός τελεστής.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Το σύμβολο &lt;- για τον τελεστή εκχώρησης τιμής είναι κοινό σε όλες τις γλώσσες προγραμματισμού.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η τιμή μιας μεταβλητής μπορεί να διατηρείται σταθερή κατά τη διάρκεια της εκτέλεσης ενός προγράμματος.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι εντολές εκχώρησης τιμής εκχωρούν τιμές στις σταθερές που χρησιμοποιούνται στην περιγραφή ενός αλγορίθμου.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Κατά τη διάρκεια της εκτέλεσης ενός αλγορίθμου η τιμή μιας σταθεράς μπορεί να αλλάξει μόνο μία φορά.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Με την εντολή α &lt;- 3 εκχωρείται στη μεταβλητή α η τιμή 3</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Με την εντολή α &lt;- α+1 εκχωρείται στη μεταβλητή α η τιμή 1.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Οι σταθερές διακρίνονται σε αλφαριθμητικές και λογικές.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η τιμή μιας μεταβλητής αλλάζει μόνο με εντολές εκχώρησης τιμής</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>

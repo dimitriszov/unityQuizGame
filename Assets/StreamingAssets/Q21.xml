@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Quizzes>
+    <Quiz>
+      <Info>Μία εντολή «Αν…τότε» περιλαμβάνει κάποια:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) συνθήκη</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ακολουθία</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) ανάθεση</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) επανάληψη</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Μία εμφωλευμένη δομή χρησιμοποιείται όταν χρειάζεται:</Info>
+      <Answers>
+        <Answer>
+          <Info>α) μία ενέργεια να περιληφθεί μέσα σε άλλη ενέργεια</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) να υπάρχει επανάληψη τυποποιημένων ενεργειών</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) να υπάρχει εκτύπωση και ανάγνωση τιμών πολλές φορές</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) να επαναληφθεί μία ενέργεια </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Με την ερώτηση "Αν (Α mod 2=0)", εννοούμε εν γένει, ότι επιθυμούμε να εξετάσουμε αν</Info>
+      <Answers>
+        <Answer>
+          <Info>α) o Α είναι περιττός</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ο Α είναι μικρότερος του 2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) ο Α ισούται με 2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) ο Α διαιρείται ακριβώς με το 2</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Στον προγραμματισμό, ποιος είναι ο πρωταρχικός σκοπός της δήλωσης "ΑΝ";</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Να δηλώσει μεταβλητές</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Να ελέγχει τη ροή ενός προγράμματος βάσει συνθηκών</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Να ορίζει συναρτήσεις</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Για τη δημιουργία βρόχων</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info> Τι συμβαίνει αν η συνθήκη σε μια δήλωση "ΑΝ" είναι ψευδής και δεν ακολουθείται από τον όρο "ΑΛΛΙΩΣ";</Info>
+      <Answers>
+        <Answer>
+          <Info>α) Το πρόγραμμα συνεχίζει στην επόμενη γραμμή κώδικα μετά το μπλοκ "ΑΝ".</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) Το πρόγραμμα τερματίζεται.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>γ) Εκπέμπεται ένα σφάλμα.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>δ) Το πρόγραμμα περιμένει την είσοδο του χρήστη. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Με την εντολή επιλογής ΑΝ ... ΤΟΤΕ ... ΑΛΛΙΩΣ_ΑΝ, μπορούμε να αποφύγουμε την χρήση εμφωλευμένων ΑΝ</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η πρόταση "ΑΛΛΙΩΣ ΑΝ" μπορεί να χρησιμοποιηθεί για τον προσδιορισμό πρόσθετων συνθηκών προς έλεγχο σε μια δήλωση "ΑΝ-ΑΛΛΙΩΣ".</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Μια δήλωση "ΑΝ" μπορεί να έχει πολλαπλές προτάσεις "ΑΛΛΙΩΣ".</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Η χρήση εμφωλευμένων εντολών ΑΝ οδηγεί συνήθως σε πολύπλοκες δομές που αυξάνουν την πιθανότητα του λάθους καθώς και τη δυσκολία κατανόησης του προγράμματος.</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+    <Quiz>
+      <Info>Στην εντολή ΑΝ...ΤΟΤΕ...ΑΛΛΙΩΣ, θα εκτελεστεί ακριβώς ένα από τα μπλοκ κώδικα (είτε το μπλοκ "ΑΝ" είτε το μπλοκ "ΑΛΛΙΩΣ").</Info>
+      <Answers>
+        <Answer>
+          <Info>α) ΣΩΣΤΟ</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>β) ΛΑΘΟΣ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Quiz>
+  </Quizzes>
+</Data>
